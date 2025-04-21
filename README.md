@@ -1,5 +1,7 @@
 # CareerLens: Your Resume's Secret Weapon
 
+[![Watch Demo Video](https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=uJHp1qOUCXw)
+
 ![CareerLens Logo](https://png.pngtree.com/png-vector/20220708/ourmid/pngtree-analyzing-data-png-image_5744358.png)
 
 ## 📖 Overview
